@@ -1,4 +1,7 @@
-A flutter project to calculate BMI
+A flutter project to calculate BMI.
+
+<img src="https://github.com/gunawanasch/bmi_flutter/blob/master/assets/images/ss_screen1.jpg" width="25%">&emsp;&emsp;<img src="https://github.com/gunawanasch/bmi_flutter/blob/master/assets/images/ss_screen2.jpg" width="25%">
+
 
 ## Getting Started
 
