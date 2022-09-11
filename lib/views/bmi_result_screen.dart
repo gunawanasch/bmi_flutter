@@ -15,6 +15,7 @@ class BmiResultScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
+        elevation: 0,
         title: const Text('Result Calculate BMI'),
       ),
       bottomNavigationBar: GestureDetector(
